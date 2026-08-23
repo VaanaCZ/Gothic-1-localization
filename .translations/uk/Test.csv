@@ -104,7 +104,7 @@
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:99","II:  Vorbereitung für die Beschwörung","II:  Підготовка до церемонії","","False","StoryHelper_INFO2.StoryHelper_PrepareRitual","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:100","II:  Hole den Almanach","II:  Пошук Альманаха","","False","StoryHelper_INFO2.StoryHelper_CorKalom_BringBook_RUNNING","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:101","II:  Hole die MCQ-Eier","II:  Пошук Королеви повзунів","","False","StoryHelper_INFO2.StoryHelper_CorKalom_BringMCQBalls_RUNNING","Info_AddChoice",""
-"Scripts/content/AI/Test_Skripts/StoryHelper.d:102","II:  Bringe Fokus zu Cor Kalom","II:  Каміньфокусування для Кор Калому","","False","StoryHelper_INFO2.StoryHelper_YBerion_BringFocus_SUCCESS","Info_AddChoice",""
+"Scripts/content/AI/Test_Skripts/StoryHelper.d:102","II:  Bringe Fokus zu Cor Kalom","II:  Фокусний камінь для Кор Калома","","False","StoryHelper_INFO2.StoryHelper_YBerion_BringFocus_SUCCESS","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:103","II:  Kapitelanfang","II:  Початок розділу","","False","StoryHelper_INFO2.StoryHelper_Chapter2Start","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:213","Kapitel 3","Розділ 3","","False","StoryHelper_INFO3.description","",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:226","III: Saturas  - 4 Foki holen","III: Сатурас  — пошук 4 каменів, що фокусують","","False","StoryHelper_INFO3.StoryHelper_SaturasBringFoci_RUNNING","Info_AddChoice",""
