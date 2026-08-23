@@ -163,7 +163,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1415_Torwache.d:82","Aber es ist wichtig, das du unsere Regeln achtest. Es gibt bestimmte Bereiche, in denen Fremde sich nicht aufhalten dürfen.","Але важливо, щоб ти дотримувався наших правил. Є певні зони, в яких стороннім особам заборонено перебувати.","","False","DIA_Tpl_1415_Torwache_First_JustLooking_13_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1415_Torwache.d:96","Wie sieht's im Lager aus?","Що чутно в таборі?","","False","DIA_Tpl_1415_Torwache_Sit.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1415_Torwache.d:106","Wie sieht's im Lager aus?","Що чутно в таборі?","","False","DIA_Tpl_1415_Torwache_Sit_15_00","",""
-"Scripts/content/Story/MISSIONS/DIA_Tpl_1415_Torwache.d:107","Alles ruhig. Geh nur rein.","Усе гаразд. Ти можеш увійти до всередину.","","False","DIA_Tpl_1415_Torwache_Sit_13_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Tpl_1415_Torwache.d:107","Alles ruhig. Geh nur rein.","Усе гаразд. Ти можеш увійти всередину.","","False","DIA_Tpl_1415_Torwache_Sit_13_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1415_Torwache.d:135","Hey, ich habe schon gehört, was in der Mine geschehen ist. Gute Arbeit. Damit hast du dir deine Aufnahme zu den Templern verdient!","Я чув, що сталося у копальні. Ти молодець. Ти заслуговуєш на те, щоб тебе прийняли до храмовників!","","False","Tpl_1415_Torwache_IMPORTANT_Info_13_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1415_Torwache.d:136","Sprich doch mal mit Cor Angar!","Обов'язково поговори з Кор Анґаром!","","","Tpl_1415_Torwache_IMPORTANT_Info_13_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1415_Torwache.d:152","Ich brauche eine Rüstung","Мені потрібні якісь обладунки.","","False","Tpl_1415_Templer_ROCK.description","",""
