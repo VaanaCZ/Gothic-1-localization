@@ -161,7 +161,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Nov_1304_Balor.d:146","Okay - wer ist der Abnehmer im Neuen Lager?","Добре. Хто буде одержувачем у Новому Таборі?","","False","DIA_Balor_TellDealer_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1304_Balor.d:147","Ich verrat dir den Namen und du bist mit dem Kraut über alle Berge - so läuft das nicht!","Ти думаєш, що я скажу тобі ім’я, а потім ти втечеш з нею? Але це так не працює!","","False","DIA_Balor_TellDealer_01_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1304_Balor.d:148","Ich will 50 Erz Vorschuss sehen. Dann sehen wir weiter.","Я хочу 50 брилок руди авансом. Тоді й поговоримо.","","False","DIA_Balor_TellDealer_01_02","",""
-"Scripts/content/Story/MISSIONS/DIA_Nov_1304_Balor.d:151","Vergiß es.","Забудь про це.","","","DIA_Balor_TellDealer.DIA_Balor_TellDealer_ForgetIt","Info_AddChoice",""
+"Scripts/content/Story/MISSIONS/DIA_Nov_1304_Balor.d:151","Vergiß es.","А-а-а забудь про це.","","False","DIA_Balor_TellDealer.DIA_Balor_TellDealer_ForgetIt","Info_AddChoice",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1304_Balor.d:152","50 sind fair - hier, nimm.","50 брилок — справедлива ціна. Прошу.","","False","DIA_Balor_TellDealer.DIA_Balor_TellDealer_Pay","Info_AddChoice",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1304_Balor.d:157","50 sind fair - hier, nimm.","50 брилок — справедлива ціна. Прошу.","","False","DIA_Balor_TellDealer_Pay_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1304_Balor.d:160","Gut... Hör zu. Sein Name ist Cipher. Du findest ihn meistens in der Kneipe auf dem See.","Гаразд, слухай. Хлопця звуть Сайфер. Ти, мабуть, знайдеш його в корчмі на березі озера.","","False","DIA_Balor_TellDealer_Pay_01_01","",""
