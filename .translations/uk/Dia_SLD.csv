@@ -244,7 +244,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Sld_752_Okyl.d:41","Ich muss weiter!","Я мушу йти!","","False","DIA_SLD_752_OKYL_EXIT_INFO_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_752_Okyl.d:42","Dann lass mich in Ruhe.","Тоді не турбуй мене.","","False","DIA_SLD_752_OKYL_EXIT_INFO_11_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_752_Okyl.d:53","Ich seh mich hier nur mal um.","Просто хочу озирнутися навколо.","","","DIA_SLD_752_OKYL_UMSEHEN.description","",""
-"Scripts/content/Story/MISSIONS/DIA_Sld_752_Okyl.d:63","Ich seh' mich hier nur mal um.","Просто озирніться навколо.","","","DIA_SLD_752_OKYL_UMSEHEN_INFO_15_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Sld_752_Okyl.d:63","Ich seh' mich hier nur mal um.","Просто хочу озирнутися навколо.","","False","DIA_SLD_752_OKYL_UMSEHEN_INFO_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_752_Okyl.d:64","Dann pass bloß auf, dass du hier im Kessel keinen Mist baust, sonst bist du schneller im Grab, als dir lieb ist.","Тільки не намагайся створювати проблеми в Котловані, інакше ти опинишся в землі швидше, ніж ти сподівався.","","","DIA_SLD_752_OKYL_UMSEHEN_INFO_11_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_752_Okyl.d:74","Wer bist du?","Хто ти?","","","DIA_SLD_752_OKYL_WERBISTDU.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_752_Okyl.d:84","Wer bist du?","Хто ти?","","","DIA_SLD_752_OKYL_WERBISTDU_INFO_15_01","",""
